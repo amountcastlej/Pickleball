@@ -4,7 +4,7 @@ A scheduling and events web application for pickle-ball hobbyists to create pick
 
 What's in it:
 
-➡️ Built a responsive full stack web application using Python, Django, Flask, and MySQL Workbench Database for code structure and leveraged the reliability and security of AWS to deploy applications
+➡️ Built a responsive full stack web application using Python, Flask, and MySQL Workbench Database for code structure and leveraged the reliability and security of AWS to deploy applications
 
 ➡️ Implemented TomTom Maps API to locate pickleball court locations
 
