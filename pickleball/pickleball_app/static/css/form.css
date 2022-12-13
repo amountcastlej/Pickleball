@@ -1,0 +1,83 @@
+/*
+
+#1F2605
+#1F6521
+#53900F
+#A4A71E
+#D6CE15
+#D6CE15
+
+--phthalo-green: #132a13ff;
+--hunter-green: #31572cff;
+--sap-green: #4f772dff;
+--asparagus: #90a955ff;
+--key-lime: #ecf39eff;
+
+--dark-orange: #fb8b24ff;
+--dogwood-rose: #d90368ff;
+--byzantium: #820263ff;
+--dark-purple: #291720ff;
+--green-munsell: #04a777ff;
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+a {
+    color: hsl(73, 77%, 8%);
+    text-decoration: none;
+}
+
+body {
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.main_logo {
+    margin: 50px auto;
+    width: 50%;
+}
+
+.form {
+    background-image: linear-gradient(to bottom right, #D6CE15, #1F6521);
+    border-radius: 11px;
+    padding: 20px 15px;
+}
+
+.form-group {
+    margin: 10px 0;
+}
+
+.form_options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #D6CE15;
+    margin-top: 30px;
+}
+
+.form_options a {
+    color: #D6CE15;
+}
+
+.submit_button {
+    background-color: #1F2605;
+    border: none;
+    border-radius: 5px;
+    color: #D6CE15;
+    padding: 9px 11px;
+}
+
+.copyright {
+    color: #1F2605;
+    margin-top: 30px;
+}
