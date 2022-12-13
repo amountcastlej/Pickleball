@@ -12,4 +12,4 @@ What's in it:
 
 ➡️ Increased scalability for storage of users attending pickleball events and communication
 
-<p>View Website<a href="18.224.251.138" alt="pickleball"> Here</></p>
+<p>View Website<a href=18.224.251.138 alt="pickleball"> Here</></p>
