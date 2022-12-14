@@ -1,6 +1,6 @@
 # pickle_ball
 
-<a src="http://18.224.251.138">View Site Here</a>
+<a src=http://18.224.251.138>View Site Here</a>
 
 A scheduling and events web application for pickle-ball hobbyists to create pickle-ball events, invite their friends and RSVP/Attend.
 
