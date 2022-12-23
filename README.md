@@ -1,4 +1,4 @@
-# pickle_ball
+Pickleball
 
 View site [Here](http://18.224.251.138)
 
@@ -8,7 +8,7 @@ What's in it:
 
 ➡️ Built a responsive full stack web application using Python, Flask, and MySQL Workbench Database for code structure and leveraged the reliability and security of AWS to deploy applications
 
-➡️ Implemented TomTom Maps API to locate pickleball court locations
+➡️ Implemented TomTom Maps API to locate pickleball court locations and improved the user experience by providing a dashboard for upcoming events.
 
 ➡️ Designed end-to-end application including creating of a high fidelity wireframe using Balsamiq and wrote modular readable and well documented code via Github to enable easy maintenance and continuous integration of web designs
 
