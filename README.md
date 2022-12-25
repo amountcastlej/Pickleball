@@ -12,4 +12,4 @@ What's in it:
 
 ➡️ Designed end-to-end application including creating of a high fidelity wireframe using Balsamiq and wrote modular readable and well documented code via Github to enable easy maintenance and continuous integration of web designs
 
-➡️ Increased scalability for storage of users attending pickleball events and communication
+➡️ Increased scalability of users attending pickleball events and communication
