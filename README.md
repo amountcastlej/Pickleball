@@ -1,7 +1,5 @@
 Pickleball
 
-View site [Here](http://18.224.251.138)
-
 A scheduling and events web application for pickle-ball hobbyists to create pickle-ball events, invite their friends and RSVP/Attend.
 
 What's in it:
